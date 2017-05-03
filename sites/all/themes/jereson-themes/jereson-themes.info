@@ -1,0 +1,4 @@
+name = jeresons theme
+description = We build custom subthemes for dayz.
+engine = phptemplate
+core = 7.x
