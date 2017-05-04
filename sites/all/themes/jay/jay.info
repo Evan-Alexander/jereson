@@ -1,0 +1,5 @@
+name = jay
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = css/colors.css
+scripts[] = js/scripts.js

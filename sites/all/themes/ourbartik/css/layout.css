@@ -23,6 +23,7 @@ body,
 }
 #header div.section {
   position: relative;
+  background-color: red;
 }
 .region-header {
   float: right; /* LTR */

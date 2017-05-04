@@ -636,6 +636,7 @@ div#branding strong {
 }
 #overlay-content #wrapper {
   background-position: 50% -80px;
+  background-color: red;
 }
 
 
